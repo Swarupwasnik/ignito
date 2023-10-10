@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.840e364f.css",
+    "main.js": "/static/js/main.e5be1ee1.js",
+    "static/js/787.7511aa5b.chunk.js": "/static/js/787.7511aa5b.chunk.js",
+    "static/media/sale.gif": "/static/media/sale.6fa889b24030c4483a6f.gif",
+    "static/media/burger.gif": "/static/media/burger.d8cfccf6add6021af6eb.gif",
+    "static/media/card3.jpg": "/static/media/card3.bf88a06802048bce1bbf.jpg",
+    "static/media/build.jpg": "/static/media/build.78d4bd5af608fb037236.jpg",
+    "static/media/card1.jpg": "/static/media/card1.e484ff834d12d30393a3.jpg",
+    "static/media/card2.jpg": "/static/media/card2.6a3ba8f8deae58bf760c.jpg",
+    "static/media/India.jpg": "/static/media/India.be14efab1ed87cdc073d.jpg",
+    "static/media/booking.gif": "/static/media/booking.fa3fbd03ec89a9c6a5c9.gif",
+    "static/media/gif1.gif": "/static/media/gif1.2a50e72ee5880572f418.gif",
+    "static/media/gif2.gif": "/static/media/gif2.2b4cc0c09ef57d9bc8c0.gif",
+    "static/media/kamrad.gif": "/static/media/kamrad.123f6b58736180c37895.gif",
+    "static/media/eno.jpg": "/static/media/eno.ca210ccd1bfe8154917a.jpg",
+    "static/media/card4.jpg": "/static/media/card4.4cba7a14d463c37190d7.jpg",
+    "static/media/card6.jpg": "/static/media/card6.5ba8f75d723ccc7d9516.jpg",
+    "static/media/lol.jpg": "/static/media/lol.a2bf78010ebe0c0e26c4.jpg",
+    "static/media/smile2.gif": "/static/media/smile2.35357be02b8d9c5f20e6.gif",
+    "static/media/pc.jpg": "/static/media/pc.bfd1d6fae593fbd81259.jpg",
+    "static/media/man.jpg": "/static/media/man.3ae70a375889e4923617.jpg",
+    "static/media/fb.gif": "/static/media/fb.b96d3e86aa4c26cd877e.gif",
+    "index.html": "/index.html",
+    "main.840e364f.css.map": "/static/css/main.840e364f.css.map",
+    "main.e5be1ee1.js.map": "/static/js/main.e5be1ee1.js.map",
+    "787.7511aa5b.chunk.js.map": "/static/js/787.7511aa5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.840e364f.css",
+    "static/js/main.e5be1ee1.js"
+  ]
+}
